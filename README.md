@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2563EB,100:0F172A&text=ASWIN%20SUDHAN&fontColor=FFFFFF&fontSize=50&animation=fadeIn&fontAlignY=38&desc=AI%20•%20Robotics%20•%20Space%20Technology&descAlignY=60" />
+</p>
 <!--
 **Aswinsudhan/Aswinsudhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
