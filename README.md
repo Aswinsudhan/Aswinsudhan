@@ -12,13 +12,13 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                  ORBITAL MISSION TERMINAL                   ║
+║                  ORBITAL MISSION TERMINAL                    ║
 ╠══════════════════════════════════════════════════════════════╣
 ║ Developer      : Aswinsudhan                                 ║
-║ Status         : ONLINE 🟢                                  ║
-║ Mission        : Build technology with real-world impact    ║
-║ Focus          : AI | Space | Automation | Software         ║
-║ Base           : Tamil Nadu, India                         ║
+║ Status         : ONLINE 🟢                                   ║
+║ Mission        : Build technology with real-world impact     ║
+║ Focus          : AI | Space | Automation | Software          ║
+║ Base           : Tamil Nadu, India                           ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
