@@ -3,8 +3,8 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-![Python](https://img.shields.io/badge/3776AB?style=for-the-badge&logo=logoColor=white)
-![C](https://img.shields.io/badge/A8B9CC?style=for-the-badge&logo=logoColor=black)
+![Python](https://img.shields.io/badge/3776AB?style=for-the-badge&logo=&logoColor=white)
+![C](https://img.shields.io/badge/A8B9CC?style=for-the-badge&logo=&logoColor=black)
 ![C++](https://img.shields.io/badge/00599C?style=for-the-badge&logo=&logoColor=white)
 
 ### ⚙️ Backend
