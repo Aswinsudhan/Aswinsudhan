@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Aswin Sudhan
 
-### 🚀 Engineering Student | AI • Space Technology • Full-Stack Development
+### 🚀 Engineering Student | Space Technology • Full-Stack Development
 
 I'm a Computer Science and Business Systems (CSBS) student at **PSNA College of Engineering and Technology** with a passion for building intelligent software solutions. My interests span **Artificial Intelligence, Space Technology, Automation, and Full-Stack Development**, and I enjoy transforming innovative ideas into practical applications.
 
@@ -8,12 +8,12 @@ I'm a Computer Science and Business Systems (CSBS) student at **PSNA College of 
 
 ## 💫 About Me
 
-- 🎓 Pursuing **B.Tech in Computer Science and Business Systems (CSBS)**
-- 🏫 PSNA College of Engineering and Technology
-- 🛰️ Passionate about AI, Space Technology, Automation, and Software Engineering
-- 💡 Love building projects that solve real-world engineering challenges
-- 🌱 Always learning new technologies and contributing to personal projects
-- 🤝 Open to internships, hackathons, collaborations, and open-source contributions
+🎓 Pursuing **B.Tech in Computer Science and Business Systems (CSBS)**
+ 🏫 PSNA College of Engineering and Technology
+ 🛰️ Passionate about AI, Space Technology, Automation, and Software Engineering
+ 💡 Love building projects that solve real-world engineering challenges
+ 🌱 Always learning new technologies and contributing to personal projects
+ 🤝 Open to internships, hackathons, collaborations, and open-source contributions
 
 ---
 
@@ -90,8 +90,7 @@ A collection of AI experiments and automation projects exploring machine learnin
 - Machine Learning
 - Agentic AI
 - Computer Vision
-- Full-Stack Development
-- Space Technology Applications
+- Automation
 - Cloud Computing
 
 ---
@@ -127,7 +126,7 @@ A collection of AI experiments and automation projects exploring machine learnin
 
 - 💼 LinkedIn: https://www.linkedin.com/in/aswinsudhank/
 - 💻 GitHub: https://github.com/Aswinsudhan
-- 📧 Email: your.email@example.com
+- 📧 Email: aswinharisudhan@gmail.com
 
 ---
 
