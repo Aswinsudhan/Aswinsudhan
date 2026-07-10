@@ -1,8 +1,21 @@
 ## Hi there 👋
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2563EB,100:0F172A&text=ASWIN%20SUDHAN&fontColor=FFFFFF&fontSize=50&animation=fadeIn&fontAlignY=38&desc=AI%20•%20Robotics%20•%20Space%20Technology&descAlignY=60" />
-</p>
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-Basic-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🤖 Interests & Focus
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-6A5ACD?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge)
 <!--
 **Aswinsudhan/Aswinsudhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
