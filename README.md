@@ -55,7 +55,7 @@ A collection of AI experiments and automation projects exploring machine learnin
 
 ### 🗄️ Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-Basic-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-Basic-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🤖 AI & Automation
 
