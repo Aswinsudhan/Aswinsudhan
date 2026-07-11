@@ -12,14 +12,23 @@
 
 ```text
 ## 🛰 Mission Control
+## 🛰 Mission Control
 
-| System | Status |
-|---------|:------:|
-| 👨‍💻 Developer | **Aswin Sudhan** |
-| 🟢 Status | **Online** |
-| 🚀 Current Mission | **Orbital Intelligence Platform** |
-| 🤖 AI Core | **Active** |
-| 🌌 Space Systems | **Operational** |
+```bash
+
+$ Tech-focus
+Artificial Intelligence
+Space Technology
+Automation
+Full Stack Development
+
+$ system-status
+ONLINE
+
+$ next-objective
+Build impactful engineering solutions.
+```
+
 ```
 
 ## SYSTEM STATUS
