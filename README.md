@@ -11,15 +11,15 @@
 ---
 
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║                  ORBITAL MISSION TERMINAL                    ║
-╠══════════════════════════════════════════════════════════════╣
-║ Developer      : Aswinsudhan                                 ║
-║ Status         : ONLINE 🟢                                   ║
-║ Mission        : Build technology with real-world impact     ║
-║ Focus          : AI | Space | Automation | Software          ║
-║ Base           : Tamil Nadu, India                           ║
-╚══════════════════════════════════════════════════════════════╝
+## 🛰 Mission Control
+
+| System | Status |
+|---------|:------:|
+| 👨‍💻 Developer | **Aswin Sudhan** |
+| 🟢 Status | **Online** |
+| 🚀 Current Mission | **Orbital Intelligence Platform** |
+| 🤖 AI Core | **Active** |
+| 🌌 Space Systems | **Operational** |
 ```
 
 ## SYSTEM STATUS
