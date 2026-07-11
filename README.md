@@ -8,7 +8,7 @@
 ```
 
 # ⟨ THE ASWINSUDHAN UNIVERSE ⟩
-### * solar system of code, cognition & curiosity*
+### * Solar system of code, cognition & curiosity*
 
 `STATUS: ONLINE`&nbsp;&nbsp;·&nbsp;&nbsp;`ROLE: ENGINEERING STUDENT`&nbsp;&nbsp;·&nbsp;&nbsp;`ORBIT: AI × SOFTWARE × SPACE`
 
@@ -157,8 +157,8 @@ Not every fragment is a planet. Some technologies are smaller, faster-moving, an
 
 **Languages**
 ```
-Python   ●●●●●●●●●●
-C/C++    ●●●●●●●●##
+Python     ●●●●●●●●●●
+C/C++      ●●●●●●●●##
 JavaScript ●●●●●●####
 ```
 
@@ -167,9 +167,9 @@ JavaScript ●●●●●●####
 
 **Backend Field**
 ```
-Node.js  ●●●●●●●●##
-REST API ●●●●●●●●●#
-MongoDB  ●●●●●●●###
+Node.js    ●●●●●●●●##
+REST API   ●●●●●●●●●#
+MongoDB    ●●●●●●●###
 ```
 
 </td>
