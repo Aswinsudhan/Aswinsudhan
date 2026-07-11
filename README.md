@@ -8,7 +8,7 @@
 ```
 
 # ⟨ THE ASWINSUDHAN UNIVERSE ⟩
-### *a solar system of code, cognition & curiosity*
+### * solar system of code, cognition & curiosity*
 
 `STATUS: ONLINE`&nbsp;&nbsp;·&nbsp;&nbsp;`ROLE: ENGINEERING STUDENT`&nbsp;&nbsp;·&nbsp;&nbsp;`ORBIT: AI × SOFTWARE × SPACE`
 
@@ -63,10 +63,10 @@ graph TD
 | Celestial Body | Domain | Orbital Distance | Signal Strength |
 |:---|:---|:---:|:---:|
 | 🌟 **Core** | Engineering Vision | `0.0 AU` | `████████████` |
-| 🪐 **Aether** | Artificial Intelligence | `0.4 AU` | `██████████░░` |
-| 🌍 **Forge** | Software Engineering | `1.0 AU` | `███████████░` |
-| 🔴 **Relay** | Automation | `1.5 AU` | `████████░░░░` |
-| 🌑 **Voyage** | Space Technology | `2.2 AU` | `██████░░░░░░` |
+| 🪐 **Aether** | Artificial Intelligence | `0.4 AU` | `██████████##` |
+| 🌍 **Forge** | Software Engineering | `1.0 AU` | `███████████#` |
+| 🔴 **Relay** | Automation | `1.5 AU` | `████████####` |
+| 🌑 **Voyage** | Space Technology | `2.2 AU` | `██████######` |
 
 </div>
 
@@ -158,8 +158,8 @@ Not every fragment is a planet. Some technologies are smaller, faster-moving, an
 **Languages**
 ```
 Python   ●●●●●●●●●●
-C/C++    ●●●●●●●●░░
-JavaScript ●●●●●●░░░░
+C/C++    ●●●●●●●●##
+JavaScript ●●●●●●####
 ```
 
 </td>
@@ -167,9 +167,9 @@ JavaScript ●●●●●●░░░░
 
 **Backend Field**
 ```
-Node.js  ●●●●●●●●░░
-REST API ●●●●●●●●●░
-MongoDB  ●●●●●●●░░░
+Node.js  ●●●●●●●●##
+REST API ●●●●●●●●●#
+MongoDB  ●●●●●●●###
 ```
 
 </td>
@@ -179,7 +179,7 @@ MongoDB  ●●●●●●●░░░
 ```
 Prompt Eng ●●●●●●●●●●
 ChatGPT    ●●●●●●●●●●
-Gemini     ●●●●●●●░░░
+Gemini     ●●●●●●●###
 ```
 
 </td>
