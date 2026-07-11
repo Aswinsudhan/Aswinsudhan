@@ -1,157 +1,249 @@
-# ASWINSUDHAN
-
+````markdown
 <div align="center">
 
-### `Building Intelligent Systems • Exploring Space • Engineering the Future`
+# 🌌 ASWINSUDHAN
 
-> **AI • Space Technology • Automation **
+### *Welcome to my Engineering Universe*
+
+*"Every project begins as an idea. Every idea deserves an orbit."*
+
+---
+
+🛰️ Artificial Intelligence • 🌍 Space Technology • 💻 Software Engineering • ⚡ Automation
 
 </div>
 
 ---
 
+# ☀️ THE SOLAR SYSTEM
+
+Everything in this universe revolves around one objective.
+
 ```text
-## 🛰 Mission Control
-## 🛰 Mission Control
+                    ⭐  Artificial Intelligence
 
-```bash
+                          🪐 Prompt Engineering
 
-$ Tech-focus
+
+        🌍 Software Engineering      ☀️  ENGINEERING
+                                         UNIVERSE
+
+
+             🪐 Automation        🛰️ Space Technology
+
+
+                    💻 Full Stack Development
+```
+
+---
+
+# 🌞 THE SUN
+
+The center of my engineering universe.
+
+> **Building intelligent software that solves real-world problems while exploring the possibilities of Artificial Intelligence and Space Technology.**
+
+---
+
+# 🪐 PLANETS OF MY UNIVERSE
+
+## 🌍 Mercury — Programming
+
+```text
+Python
+C
+C++
+JavaScript
+```
+
+---
+
+## 🌎 Venus — Backend
+
+```text
+Node.js
+REST APIs
+MongoDB
+```
+
+---
+
+## 🌏 Earth — Artificial Intelligence
+
+```text
+ChatGPT
+
+Google Gemini
+
+Prompt Engineering
+
+AI Automation
+
+Replit AI
+```
+
+---
+
+## 🔴 Mars — Engineering Interests
+
+```text
 Artificial Intelligence
+
 Space Technology
+
 Automation
+
+Software Engineering
+
 Full Stack Development
-
-$ system-status
-ONLINE
-
-$ next-objective
-Build impactful engineering solutions.
-```
-
-```
-
-## SYSTEM STATUS
-
-```yaml
-Developer:
-  Name: Aswinsudhan
-  Role: Engineering Student
-
-Research Areas:
-  - Artificial Intelligence
-  - Space Technology
-  - Automation
-
-Objective:
-  Design useful, scalable and Intelligent software.
 ```
 
 ---
 
-# TECH ARSENAL
+## 🪐 Jupiter — Current Missions
 
-| 💻 Languages | ⚙ Backend | 🤖 AI Toolkit | 🚀 Interests |
-|--------------|-----------|--------------|--------------|
-| Python | Node.js | ChatGPT | Space Technology |
-| C | REST APIs | Google Gemini | Artificial Intelligence |
-| C++ | MongoDB (Basic) | Replit AI | Automation |
-| JavaScript | Git | Prompt Engineering | Open Source |
+### 🛰️ Orbital Intelligence Platform
+
+> Building a modern platform for satellite visualization, orbital intelligence and space situational awareness.
 
 ---
 
-# ACTIVE MISSIONS
+### 🌐 Global Chat Web
 
-### 🛰 Orbital Intelligence Platform
+> Developing a modern communication platform with real-time capabilities.
 
-```text
-STATUS      : ACTIVE
-CATEGORY    : Full Stack
-OBJECTIVE   : Satellite tracking, orbital analytics,
-              visualization and space intelligence.
-```
-
-### 🌍 Global Chat Web
-
-```text
-STATUS      : COMPLETE
-CATEGORY    : Web Application
-OBJECTIVE   : Real-time communication platform.
-```
+---
 
 ### 🤖 AI Playground
 
+> Exploring prompt engineering, AI workflows and intelligent automation.
+
+---
+
+## 🪐 Saturn — Research Orbit
+
+Currently exploring
+
+- AI Agents
+- Prompt Engineering
+- Automation
+- Space Applications
+- Backend Architecture
+
+---
+
+## 🌌 Uranus — Innovation Lab
+
+Things I enjoy experimenting with
+
+- Building new ideas
+- Learning emerging technologies
+- Exploring open source
+- Creating practical engineering solutions
+
+---
+
+## ❄️ Neptune — Next Destination
+
 ```text
-STATUS      : ACTIVE
-CATEGORY    : Research
-OBJECTIVE   : AI experiments, automation,
-              prompt engineering and prototypes.
+Launch production-ready software
+
+Contribute to Open Source
+
+Build AI-powered applications
+
+Explore Space Technology
+
+Never stop learning
 ```
 
 ---
 
-# AI WORKFLOW
+# ☄️ ASTEROID BELT
 
-| Tool | Purpose |
-|------|---------|
-| 💬 ChatGPT | Problem solving, coding assistance, architecture |
-| ✨ Gemini | Research and multimodal AI |
-| ⚡ Replit AI | Rapid prototyping |
-| 🧠 Prompt Engineering | Building reliable AI workflows |
+Technologies that power my universe.
+
+| Languages | Backend | AI | Tools |
+|-----------|----------|----|-------|
+| Python | Node.js | ChatGPT | Git |
+| C | MongoDB | Gemini | GitHub |
+| C++ | REST APIs | Prompt Engineering | VS Code |
+| JavaScript | APIs | Replit AI | Linux |
 
 ---
 
-# DEVELOPMENT LOOP
+# 🌠 CONSTELLATIONS
+
+Every repository is another star in this universe.
+
+⭐ Orbital Intelligence Platform
+
+⭐ Global Chat Web
+
+⭐ AI Experiments
+
+⭐ Future Projects...
+
+---
+
+# 🌌 ENGINEERING PHILOSOPHY
 
 ```python
-while True:
+while curiosity:
+
     learn()
+
     build()
-    test()
+
+    experiment()
+
     improve()
-    repeat()
+
+    share()
+
 ```
 
 ---
 
-# LIVE TELEMETRY
+# 📊 GALACTIC TELEMETRY
 
-<p align="center">
+<div align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aswinsudhan&show_icons=true&theme=transparent&hide_border=true"/>
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswinsudhan&layout=compact&theme=transparent&hide_border=true"/>
-</p>
 
-<p align="center">
+</div>
+
+<div align="center">
+
 <img src="https://streak-stats.demolab.com?user=Aswinsudhan&theme=transparent&hide_border=true"/>
-</p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aswinsudhan&theme=github-dark&hide_border=true"/>
-</p>
+</div>
 
 ---
 
-# 2026 OBJECTIVES
+# 📡 TRANSMISSION CHANNEL
 
-- Build production-grade AI applications
-- Publish impactful open-source projects
-- Contribute to space technology software
-- Continuously improve engineering skills
+📧 **Email**
 
----
-
-# CONNECT
-
-📧 **Email**  
 aswinharisudhan@gmail.com
 
-💼 **LinkedIn**  
+💼 **LinkedIn**
+
 https://www.linkedin.com/in/aswinsudhank/
+
+💻 **GitHub**
+
+https://github.com/Aswinsudhan
 
 ---
 
 <div align="center">
 
-### "Keep Building. Keep Exploring."
+## 🌌 "The universe is full of problems waiting to be engineered into solutions."
+
+⭐ Thanks for visiting my universe.
 
 </div>
+````
