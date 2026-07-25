@@ -16,7 +16,7 @@
 [Planetary Network](#-planetary-network) ·
 [Asteroid Belt](#-asteroid-belt--technologies-in-orbit) ·
 [Missions](#-active-comet-trajectories--current-missions) ·
-[Constellation](#-knowledge-constellation--repository-star-map) ·
+[Constellation](#-knowledge-constellation--repository-star-map) 
 [Telemetry](#-deep-space-telemetry) ·
 [Mission Control](#-mission-control--transmission-channels)
 
