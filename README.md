@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/aswinsudhank/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/im_axw1n/" target="_blank">
+  <a href="https://www.instagram.com/aaryx_27_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
   </a>
   <a href="mailto:aswinharisudhan@gmail.com">
